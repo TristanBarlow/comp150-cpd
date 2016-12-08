@@ -31,7 +31,7 @@ Next week sees our first official deadline, as such pressure is mounting to get 
 ## Week 9 ##
 After reflection, week 9 has been the most challenging week yet. The pressure described the previous week is nothing compared to now. This week I would say my main challenge was the pressure/stress management. As I have found previously in my life when things get tough (particularly academic) I tend to do less work, which in itself causes more stress as the assignment deadlines stack up. 
 ## Week 10 ##
-Learning C++ started this week, the difference between python is apparent from the first. To better understand things need to be structured in C++ I will go through some old python scripts and make the scripts object orientated.
+Learning C++ started this week, the difference between python is apparent from the first. To better understand how things need to be structured in C++ I will go through some old python scripts and reformat them to make them object orientated.
 
 ## Week 11 ## 
 So comes the second to last week of term and the 11th week since I started programming. If I were asked my greatest weakness, I would have to reply creative tunnel vision. By this I mean when I find a solution to a problem, I don’t take time to step back and think of alternatives ‘better’ solutions I always run with the first solution that works. I have found that this sometimes causes my work to be poorly structured/optimised. Before implementing any solution spending at least a few minutes to step back and asses’ other routes will be effective in improving the quality of my work.
