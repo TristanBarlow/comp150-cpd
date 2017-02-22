@@ -35,3 +35,19 @@ Learning C++ started this week, the difference between python is apparent from t
 
 ## Week 11 ## 
 So comes the second to last week of term and the 11th week since I started programming. If I were asked my greatest weakness, I would have to reply creative tunnel vision. By this I mean when I find a solution to a problem, I don’t take time to step back and think of alternatives ‘better’ solutions I always run with the first solution that works. I have found that this sometimes causes my work to be poorly structured/optimised. Before implementing any solution spending at least a few minutes to step back and asses’ other routes will be effective in improving the quality of my work.
+
+#CPD Semester-2
+
+##Week-1
+For the first official week of lecture our team decide to meet every day at ten in the morning, if timetables permitted. After the long break over christmas I found myself struggling to get back into the work routine. To help readjust myself to a working schedule I will wake up early and begin work at 9:00 on my days off. I believe by doing this I will be more productive and I can benefit my team more as I will be up and ready to work at the scheduled meeting times.
+
+##Week-2
+This week, after making more effort to wake up on time and get back into a solid routine, I could more easily focus on providing functionality to our group project. One hurdle I found myself encountering was a lack of understanding of aspects of our game network. In particular where the call to kill the slimes was being handled. This slowed my work down as I had to ask my peer how and where it was being done. To remedy this I will take notes during meetings which discuss important functions like the one mentioned above.
+
+
+##Week-3
+This week started the second sprint of our project. I found with a better understand of the architecture of our game I was able to implement a PvP area into our game with minimal dependencies. The greatest challenge this week came from a disruption to prior weeks workflow. More specifically working on content over the weekend which was, at the same time being implemented by one of my peers. From now on I will double check on trello and via direct messages what everyone will be working on over the weekend to stop this waste of resources.
+
+
+##Week-4
+Similar to last week my misunderstanding of the workflow had caused a potential delay with the production of our game. In previous weeks I would ask the game designers of our group what they would like to see next implemented in the game. I would then try my best to do it. However, others in the group disagreed with game designers and felt my attentions would be better spent on other functionality. To improve this I will only begin work on functionality I know at least the majority believe should be in the game.
