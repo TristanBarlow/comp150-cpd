@@ -4,16 +4,16 @@
 
 Weekly journal goes here. Reflect.
 
-## Week 1 ##
+## Week 1 
 This week starts our official week of lectures. It started with a lecture on Monday about where we discussed our first gaming consoles, the origins of computer and the start of computer language from low-level assembly code to high-level languages like python. The majority of our week was consumed by the ice breaker activity labeled "LEGO: Robot Olympics" the aim was to program our robots to perform a series of activities. We were assigned into random groups to do this. I found myself remaining largely quiet for the first day when we were testing the capabilities of our robots. Reflecting now, I realise that remaining silent is the worst way to approach group tasks. As a became more comfortable within my group however we all started to work harder and shared a few laughs which i believe is crucial to a strong team. As this course is seems to be heavily team orientated much like the industry I will need to overcome my reluctance to speak whilst not speaking to much it hold my team back. It will I’ll be difficult to measure my success, but it will be easy to achieve with just a little effort on my own part.
-## Week 2 ##
+## Week 2 
 
 Our week started with a comp 110 lecture on computing principles, in this we learnt certain rules surrounding variables and how to assign them. During this lecture I made mistakes answering the questions we were given. I found myself rushing to answer the questions and as a result making errors such as; not reading the questions properly. I believe by taking a bit time and executing every line of code as the computer would this will not happen again. In the comp 150 lecture on Wednesday we were assigned the task of designing a board game at first there was no time limit but one was later added and as a team we found ourselves with very little time. This resulted in us not being able to produce a working prototype. During a reflection period we identified that this could’ve been avoided by working in parallel. Rather than all work on the same task we should’ve split tasks to achieve a higher productivity overall.  I am going to keep this in mind when we next do a group project.
 
-## Week 3 ##
+## Week 3  
 This week started with a comp 110 lecture, we learnt mainly about pseudocode and flowcharts how and when to use them. We were split in to small groups (2-3) and asked to write a flowchart on how we would log in to facebook. Unfortunately due to my inability to understand my partners ideas i found myself being more inclined to my own ideas of what a flowchart 'should' look like. As a result there were no arrows on our first flowchart making it difficult to understand. In future I will always make an effort to understand others ideas and hear the opinions/ideas of everyone involved before any action is taken. We were set another task during Wednesdays comp 150 lecture. The aim was to produce a prototype of a text game based on random 'idea' cards provided by the lecturer. Keeping in mind the target I set for myself last week, I quickly suggested to split into groups so as to maximise efficiency. The prototype thanks to the groups effort was a very good representation of what the game could've been. Next week my goal is to study at least 2 extra research papers going into more depth and attempt an entry to the wiki.
 
-## Week 4 ##
+##  Week 4
 Like always this week started early on a Monday morning with a comp 110 lecture. This week’s lecture was focused on logic gates. It involved a socrative exercise with immediate right wrong feedback. Due to the nature of the topic any inattention resulted in bad logic, an example being when I decided register myself as present on the learning space system. I missed the explanation of one of the particular logic gates, needless to say I did not answer correctly on socrative. I will make sure this doesn’t happen again. In our comp 150 lecture we were introduced to the group design project for this term. We were tasked to start a handout which is to be presented next week. The handout is on a game design of our choice. Some classmates and I who have previously worked together self-managed into a small group to pitch our ideas and share inspiration. As a three we came up with a solid game design idea which is simple yet leaves massive room for expansion and ingenuity. Once the concept took root I found it hard to look at any other design with more than a passing interest. In reflection this is a huge mistake, I should’ve not only talked to my immediate peers but also everyone in the class. Next week I will perform an informal questionnaire to people outside of the group to get opinions on features and mechanics.
 
 ## Week 5 ##
@@ -38,16 +38,23 @@ So comes the second to last week of term and the 11th week since I started progr
 
 #CPD Semester-2
 
-##Week-1
+## Week-1
 For the first official week of lecture our team decide to meet every day at ten in the morning, if timetables permitted. After the long break over christmas I found myself struggling to get back into the work routine. To help readjust myself to a working schedule I will wake up early and begin work at 9:00 on my days off. I believe by doing this I will be more productive and I can benefit my team more as I will be up and ready to work at the scheduled meeting times.
 
-##Week-2
+## Week-2
 This week, after making more effort to wake up on time and get back into a solid routine, I could more easily focus on providing functionality to our group project. One hurdle I found myself encountering was a lack of understanding of aspects of our game network. In particular where the call to kill the slimes was being handled. This slowed my work down as I had to ask my peer how and where it was being done. To remedy this I will take notes during meetings which discuss important functions like the one mentioned above.
 
 
-##Week-3
+## Week-3
 This week started the second sprint of our project. I found with a better understand of the architecture of our game I was able to implement a PvP area into our game with minimal dependencies. The greatest challenge this week came from a disruption to prior weeks workflow. More specifically working on content over the weekend which was, at the same time being implemented by one of my peers. From now on I will double check on trello and via direct messages what everyone will be working on over the weekend to stop this waste of resources.
 
 
-##Week-4
+## Week-4
 Similar to last week my misunderstanding of the workflow had caused a potential delay with the production of our game. In previous weeks I would ask the game designers of our group what they would like to see next implemented in the game. I would then try my best to do it. However, others in the group disagreed with game designers and felt my attentions would be better spent on other functionality. To improve this I will only begin work on functionality I know at least the majority believe should be in the game.
+
+## Week-5
+This Week I found myself in a situation where I could either help a game designer to solve a problem, or teach him how to fix the problem himself. I went for the latter as I could see this happening again in the future. Due to my poor teaching skills I think that i may have had a negative impact overall. I need to develop my teaching skills even if they will be called upon rarely.
+
+## Week-6
+Week 6 produced large progress for the game project as a whole. With the majority of the team coming everyday and contributing to the vision of the game it only highlighted those idividuals who were not participating. I believe the way myself and the group handled the uncooperative members 
+
